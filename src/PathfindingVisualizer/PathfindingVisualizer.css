@@ -1,0 +1,36 @@
+ .grid {
+   margin: 100px 0 0;
+   ;
+ }
+
+
+
+
+ .dijkstra-button {
+   background-color: #4CAF50;
+   /* set the background color to a shade of green */
+   color: white;
+   /* set the text color to white */
+   border: none;
+   /* remove the button border */
+   padding: 10px 20px;
+   /* add some padding to the button */
+   text-align: center;
+   /* center the button text */
+   text-decoration: none;
+   /* remove any text decoration */
+   display: inline-block;
+   /* display the button as an inline element */
+   font-size: 16px;
+   /* set the font size */
+   margin: 4px 2px;
+   /* add some margin to the button */
+   cursor: pointer;
+   /* add a pointer cursor on hover */
+ }
+
+ .completed-box {
+   width: 100px;
+   height: 100px;
+   background-color: blue;
+ }
